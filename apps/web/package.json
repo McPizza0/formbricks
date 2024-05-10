@@ -40,7 +40,7 @@
     "lru-cache": "^10.2.0",
     "lucide-react": "^0.321.0",
     "mime": "^4.0.1",
-    "next": "14.1.0",
+    "next": "14.1.1",
     "nodemailer": "^6.9.9",
     "otplib": "^12.0.1",
     "posthog-js": "^1.104.4",
